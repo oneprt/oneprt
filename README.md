@@ -4,5 +4,3 @@ I'm Pramod from India. Here on GitHub looking for cool project to improve my cod
 
 - 🔭 My professional skills include expertise in digital marketing and SEO.
 - 🌱 I do like exploring JavaScript and PHP.
-
-😀
